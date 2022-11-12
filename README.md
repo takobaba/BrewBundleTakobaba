@@ -2,4 +2,4 @@
 brew bundle dump
   - Brewfile
 
-## Used Sublime Text to Merge and Take the Unique Lines
+## Used Sublime Text to Merge & Sort & Take out the Unique Lines
