@@ -2,9 +2,9 @@
 
 ## How to:
 
-* 7280 &rarr;
+* Dell 7280 &rarr;
     > `brew bundle dump --file=/Users/tarikkaya/Documents/BrewBundleTakobaba/BrewFile7280 --force`
-* L490 &rarr;
+* Thinkpad L490 &rarr;
     > `brew bundle dump --file=/Users/tarikkaya/Documents/BrewBundleTakobaba/BrewFileL490 --force`
 * M1Pro &rarr;
     > `brew bundle dump --file=/Users/tarikkaya/Documents/BrewBundleTakobaba/BrewFileM1 --force`
