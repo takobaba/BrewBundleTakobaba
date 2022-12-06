@@ -10,7 +10,7 @@
     > `brew bundle dump --file=/Users/tarikkaya/Documents/BrewBundleTakobaba/BrewFileM1 --force`
 
 * BrewFileMerged &rarr;
-    > `cd < BrewBundleDump Folder >`
+    > `cd /Users/tarikkaya/Documents/BrewBundleTakobaba/`
     
     > `cat BrewFile7280 BrewFileL490 BrewFileM1 | sort -fu > BrewfileMerged`
     
