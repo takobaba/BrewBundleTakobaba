@@ -1,7 +1,5 @@
 # My Brew Bundle  
 
-brew bundle dump
-
 ## How to:
 
 * 7280 &rarr;
@@ -13,6 +11,5 @@ brew bundle dump
 
 * BrewFileMerged &rarr;
     > cd <BrewBundleDump Folder>
-    > cat BrewFile7280 BrewFileL490 BrewFileM1 | sort -fru > BrewfileMerged
-
-**Merged file is a merged of above 3** 
+    > cat BrewFile7280 BrewFileL490 BrewFileM1 | sort -fu > BrewfileMerged
+    
