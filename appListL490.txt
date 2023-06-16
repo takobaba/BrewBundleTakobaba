@@ -1,13 +1,14 @@
 /Applications/1Password.app
-/Applications/Ableton\ Live\ 11\ Suite.app
-/Applications/Android\ File\ Transfer.app
-/System/Applications/App\ Store.app
+/Applications/AlDente.app
+/Applications/Android File Transfer.app
+/System/Applications/App Store.app
 /Applications/AppCleaner.app
 /Applications/Arc.app
-/Applications/Authy\ Desktop.app
+/Applications/Authy Desktop.app
 /System/Applications/Automator.app
+/Applications/balenaEtcher.app
 /Applications/Bitwarden.app
-/Applications/Blackmagic\ Disk\ Speed\ Test.app
+/Applications/Blackmagic Disk Speed Test.app
 /Applications/Blocs.app
 /System/Applications/Books.app
 /System/Applications/Calculator.app
@@ -23,61 +24,66 @@
 /System/Applications/FaceTime.app
 /System/Applications/FindMy.app
 /Applications/Firefox.app
-/System/Applications/Font\ Book.app
+/System/Applications/Font Book.app
 /System/Applications/Freeform.app
-/Applications/Geekbench\ 5.app
+/Applications/Geekbench 6.app
+/Applications/GPG Keychain.app
 /Applications/Hackintool.app
 /System/Applications/Home.app
 /Applications/IINA.app
-/System/Applications/Image\ Capture.app
-/Applications/IntelliJ\ IDEA\ CE.app
+/System/Applications/Image Capture.app
+/Applications/IntelliJ IDEA CE.app
 /Applications/IORegistryExplorer.app
-/Applications/iStat\ Menus.app
+/Applications/iStat Menus.app
 /Applications/iTerm.app
-/Applications/Jetpack\ Joyride\ 2.app
+/Applications/Jetpack Joyride 2.app
 /Applications/Keka.app
-/Applications/Kext\ Updater.app
+/Applications/Kext Updater.app
 /Applications/Last.fm.app
 /System/Applications/Launchpad.app
 /Applications/Linphone.app
 /Applications/LuLu.app
 /Applications/Maccy.app
 /Applications/MaciASL.app
+/Applications/Macs Fan Control.app
 /System/Applications/Mail.app
 /System/Applications/Maps.app
 /Applications/MarsEdit.app
 /System/Applications/Messages.app
-/Applications/Microsoft\ OneNote.app
-/Applications/Microsoft\ Outlook.app
-/Applications/Microsoft\ Teams.app
-/System/Applications/Mission\ Control.app
-/Applications/MongoDB\ Compass.app
+/Applications/Microsoft OneNote.app
+/Applications/Microsoft Outlook.app
+/Applications/Microsoft Teams.app
+/System/Applications/Mission Control.app
+/Applications/MongoDB Compass.app
 /Applications/Mounty.app
 /System/Applications/Music.app
 /System/Applications/News.app
+/Applications/NextDNS.app
 /Applications/NightPDF.app
 /System/Applications/Notes.app
+/Applications/Nova.app
 /Applications/Obsidian.app
 /Applications/OCAuxiliaryTools.app
-/Applications/OpenCore\ Configurator.app
+/Applications/OpenCore Configurator.app
 /Applications/Opera.app
-/Applications/Path\ Finder.app
-/System/Applications/Photo\ Booth.app
+/Applications/Path Finder.app
+/System/Applications/Photo Booth.app
 /System/Applications/Photos.app
 /Applications/PlistEDPlus.app
 /System/Applications/Podcasts.app
-/Applications/Poly\ Bridge\ 2.app
+/Applications/Poly Bridge 2.app
+/Applications/Poly Bridge 3.app
 /Applications/Postman.app
 /Applications/PrettyClean.app
 /System/Applications/Preview.app
-/Applications/Pro\ Snooker\ \&\ Pool\ 2023.app
+/Applications/Pro Snooker & Pool 2023.app
 /Applications/ProperTree.app
 /Applications/qbittorrent.app
-/System/Applications/QuickTime\ Player.app
-/Applications/Raspberry\ Pi\ Imager.app
-/Applications/Rectangle\ Pro.app
+/System/Applications/QuickTime Player.app
+/Applications/Raspberry Pi Imager.app
+/Applications/Rectangle Pro.app
 /System/Applications/Reminders.app
-/Applications/Robo\ 3T.app
+/Applications/Robo 3T.app
 /Applications/Safari.app
 /System/Applications/Shortcuts.app
 /Applications/Signal.app
@@ -87,15 +93,15 @@
 /Applications/Stats.app
 /System/Applications/Stickies.app
 /System/Applications/Stocks.app
-/Applications/Sublime\ Text.app
-/System/Applications/System\ Settings.app
+/Applications/Sublime Text.app
+/System/Applications/System Settings.app
 /Applications/Telegram.app
 /System/Applications/TextEdit.app
 /Applications/ThinkpadAssistant.app
-/System/Applications/Time\ Machine.app
+/System/Applications/Time Machine.app
 /Applications/TinkerTool.app
 /System/Applications/TV.app
-/Applications/Visual\ Studio\ Code.app
+/Applications/Visual Studio Code.app
 /Applications/VLC.app
 /System/Applications/VoiceMemos.app
 /Applications/WanderingVillage.app
@@ -104,8 +110,12 @@
 /Applications/WhatsApp.app
 /Applications/Wireshark.app
 /Applications/Xiasl.app
+/Applications/Xmind.app
 /Applications/Xplist.app
-/Applications/YubiKey\ Manager.app
-/Applications/zoom.us.app
-/Applications/Intel\ Power\ Gadget 
-/Applications/Sophos 
+/Applications/YubiKey Manager.app
+/Applications/Intel Power Gadget
+/Applications/Sophos
+/Applications/Utilities
+/Applications/.DS_Store
+/Applications/.localized
+/System/Applications/.localized
