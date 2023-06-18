@@ -15,4 +15,4 @@
     > `cat BrewFile7280 BrewFileL490 BrewFileM1 | sort -fu > BrewfileMerged`
     
 ### Run brew cask update script:
-    > `~/Documents/BrewBundleTakobaba/brew_cask_update.sh microsoft-teams > /dev/null 2>&1`
+    brew_cask_update.sh microsoft-teams > /dev/null 2>&1
