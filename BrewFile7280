@@ -1,5 +1,4 @@
 tap "buo/cask-upgrade"
-tap "cantino/mcfly"
 tap "gromgit/fuse"
 tap "homebrew/bundle"
 tap "homebrew/cask"
