@@ -1,4 +1,4 @@
-# My Brew Bundle  
+# My Brew Bundle
 
 ## How to:
 
@@ -9,10 +9,5 @@
 * M1Pro &rarr;
     > `brew bundle dump --file=/Users/tarikkaya/Documents/BrewBundleTakobaba/BrewFileM1 --force`
 
-* BrewFileMerged &rarr;
-    > `cd /Users/tarikkaya/Documents/BrewBundleTakobaba/`
-    
-    > `cat BrewFile7280 BrewFileL490 BrewFileM1 | sort -fu > BrewfileMerged`
-    
 ### Run brew cask update script:
     brew_cask_update.sh microsoft-teams > /dev/null 2>&1
